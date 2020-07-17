@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3.1,
   "artifactType": {
     "type": "APK",
     "kind": "Directory"
@@ -11,10 +11,10 @@
       "type": "SINGLE",
       "filters": [],
       "properties": [],
-      "versionCode": 1,
-      "versionName": "1",
+      "versionCode": 3.1,
+      "versionName": "3.1",
       "enabled": true,
-      "outputFile": "Smart Meter Monitor (v3.0).apk"
+      "outputFile": "SmartMeterMonitor(v3.1).apk"
     }
   ]
 }
